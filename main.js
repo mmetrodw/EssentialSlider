@@ -75,6 +75,6 @@ class EssentialSlider {
     this.swipeCoordsY = null;
   }
 }
-
+console.log()
 
 new EssentialSlider();
